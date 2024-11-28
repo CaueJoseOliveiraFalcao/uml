@@ -1,0 +1,55 @@
+ciclo de vida de um projeto
+    levatamento de requisitos
+
+    Analise
+
+    Desing
+
+    IMplementação
+
+    testes
+
+    Implantação
+Diagramas de interação
+    mostra o comportarmento interativo de um sistema
+    com um fluxo de mensages
+
+    OBetem infrmoação eadicionais para aprimoarar outros 
+    modelos como o de caso de uso
+
+    interaçã cpomicaçãpo
+        com sestas el comuicaçao dej uma acação e um ator
+
+    SEquancia
+        varias acções ao mesmo tempo
+
+Diagrama de sequência
+    sequebncia de cominicações entre obejtoas
+DIagrama de comincação
+    como ibjetos interagem 
+
+DIagrama de classe de projeto
+    refinamento do diagram de classe
+    aborta o relaciomaneto entre classes
+    O diagrama de classes de projeto apresenta 
+    os dados que serão necessários para a construção
+     do sistema de informação.
+     
+    tipos de restrição
+
+    +publica
+    #protegida
+        somente visisel a subclasses e classe definida
+    -privativa
+        somente na classe
+    ~qualquer vlasse do mesmo pacote
+
+
+Diadrama de trasição de estados
+    relacioa setas circulares de mdoand fe estado de objetio
+
+DIragama de atividades
+    tipo espercial de diagram de estados
+
+DIagrama de componentes
+    relacao entre modeolos do sistema
